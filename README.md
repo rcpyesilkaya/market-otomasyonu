@@ -1,6 +1,9 @@
 ## Proje Hakkında
 
-Market içi ürün alım , satım ve stok takibi
+Market içi ürün alım , satım ve stok takibi.
+
+### Proje detayları
+Bu market otomasyonu uygulamasının yapımında, java hibernate mimarisini kullanarak geliştirdim, uygulamaya giriş yaptığımızda, önce  kullanıcı giriş ekranı bizleri karşılıyor. Burada sisteme giriş yapıp anasayfaya yönlendiriliriz veya kayıt olup işlem adımları tekrarlanır. Stok da var olan ürünleri takip edebiliriz. Stoğa yeni ürün ekleme veya silme işlemlerini gerçekleştirebiliriz. Sepete ekle me ile ürün satış işlemi gerçekletirebiliriz.
 
 ### Gereksinimler
     o  MySql 8.0.20 Yüklü olması gerekmektedir.
